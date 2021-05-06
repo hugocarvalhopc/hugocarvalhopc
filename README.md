@@ -22,3 +22,6 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-hugosimoes172002@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugosimoes172002@gmail.com)](mailto:hugosimoes172002@gmail.com)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugocarvalhopc&show_icons=true&theme=radical)
+
