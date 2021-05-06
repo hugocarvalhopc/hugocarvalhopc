@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**hugocarvalhopc/hugocarvalhopc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hugo Carvalho 🙃
 
-Here are some ideas to get you started:
+I live in Brazil 🇧🇷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Passionate about everything that involves technology 🤖
+
+
+### *"Failure doesn't give you a reason to give up as long as you believe." -- Uzumaki Naruto* 🚀
+
+-  👨🏻‍💻  Studying computer science 
+-  📍   Maceió - Alagoas
+
+
+
+
+
+```mermaid
+graph LR
+A[Dream] -- - --> B((Faith))
+A --> C(Work hard)
+B --> D{Abundance}
+C --> D
+
+```
+
+find me here👇
+
+
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hugocarvalhop/)](https://www.instagram.com/hugocarvalhop/)
+
+
+[![Gmail Badge](https://img.shields.io/badge/-hugosimoes172002@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugosimoes172002@gmail.com)](mailto:hugosimoes172002@gmail.com)
