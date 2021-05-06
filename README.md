@@ -13,18 +13,6 @@ I live in Brazil 🇧🇷
 -  📍   Maceió - Alagoas
 
 
-
-
-
-```mermaid
-graph LR
-A[Dream] -- - --> B((Faith))
-A --> C(Work hard)
-B --> D{Abundance}
-C --> D
-
-```
-
 find me here👇
 
 
