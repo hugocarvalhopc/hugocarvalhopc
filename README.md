@@ -1,4 +1,5 @@
-# Hello, World! 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugocarvalhopc)](https://github.com/hugocarvalhopc/github-readme-stats)
+
 
 ###  I'm Hugo Carvalho 🙃
 
