@@ -1,19 +1,18 @@
 # Hello, World! 👋
 
-I'm Hugo Carvalho 🙃
+###  I'm Hugo Carvalho 🙃
 
-I live in Brazil 🇧🇷
+### I live in Brazil 🇧🇷
 
- Passionate about everything that involves technology 🤖
-
-
-### *"Failure doesn't give you a reason to give up as long as you believe." -- Uzumaki Naruto* 🚀
-
--  👨🏻‍💻  Studying computer science 
--  📍   Maceió - Alagoas
+ ### Passionate about everything that involves technology 🤖
 
 
-find me here👇
+## *"Failure doesn't give you a reason to give up as long as you believe." -- Uzumaki Naruto* 🚀
+
+### -  👨🏻‍💻  Studying computer science 
+### -  📍   Maceió - Alagoas
+
+
 
 
 
