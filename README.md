@@ -8,7 +8,7 @@
  ### Passionate about everything that involves technology 🤖
 
 
-## *"Failure doesn't give you a reason to give up as long as you believe." -- Uzumaki Naruto* 🚀
+## *"Failure doesn't give you a reason to give up as long as you believe."
 
 ### -  👨🏻‍💻  Studying computer science 
 ### -  📍   Maceió - Alagoas
