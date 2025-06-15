@@ -1,29 +1,190 @@
-# Hello, World 🤙
+<div align="center">
 
+# 🤖 Hugo Carvalho | AI Leader & Machine Learning Engineer 🚀
 
-###  I'm Hugo Carvalho 🙃
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Hugo+Carvalho!;AI+Leader+%26+ML+Engineer;Artificial+Intelligence+Specialist;LLM+%26+GenAI+Expert+%F0%9F%A4%96;From+Brazil+%F0%9F%87%B7%F0%9F%87%B7" alt="Typing SVG" />
 
-### I live in Brazil 🇧🇷
+</div>
 
- ### Passionate about everything that involves technology 🤖
+---
 
+<div align="center">
+  
+## 🌐 **Connect with Me**
 
-## Failure doesn't give you a reason to give up as long as you believe.
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hugocarvalhop/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugosimoes172002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 
-### -  👨🏻‍💻  Studying computer science 
-### -  📍   Maceió - Alagoas
+</div>
 
+---
 
+<div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugocarvalhopc&show_icons=true&theme=dark)
+## 🧠 **About Me**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugocarvalhopc&layout=compact)](https://github.com/hugocarvalhopc/github-readme-stats)
+```yaml
+name: "Hugo Carvalho"
+role: "AI Leader & Machine Learning Engineer"
+location: "Maceió, Alagoas - Brazil 🇧🇷"
+education: "Computer Science 🎓"
+specialization: "Artificial Intelligence & Large Language Models"
+philosophy: "Failure doesn't give you a reason to give up as long as you believe ✨"
+mission: "Leading AI transformation and building intelligent systems 🚀"
+status: "Always learning and pushing AI boundaries 📈"
+```
 
+</div>
 
-### Find me here 👇
+---
 
+<div align="center">
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hugocarvalhop/)](https://www.instagram.com/hugocarvalhop/)
+## 🧬 **AI & Machine Learning Stack**
 
+### **🤖 Large Language Models & AI Platforms**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Meta Llama](https://img.shields.io/badge/Meta_Llama-1877F2?style=for-the-badge&logo=meta&logoColor=white)
 
-[![Gmail Badge](https://img.shields.io/badge/-hugosimoes172002@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugosimoes172002@gmail.com)](mailto:hugosimoes172002@gmail.com)
+### **🔬 ML Frameworks & Libraries**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### **☁️ Cloud AI & MLOps**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
+
+### **💻 Programming & Tools**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### **📊 Data & Analytics**
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+
+### **🗄️ Vector Databases & Search**
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00D4AA?style=for-the-badge&logo=weaviate&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4B4B?style=for-the-badge&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 **GitHub Analytics**
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugocarvalhopc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugocarvalhopc&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+## 🔥 **Contribution Streak**
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hugocarvalhopc&theme=tokyonight" alt="hugocarvalhopc" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 **GitHub Achievements**
+
+<img src="https://github-profile-trophy.vercel.app/?username=hugocarvalhopc&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 **GitHub Activity Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hugocarvalhopc&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 **Contribution Snake**
+
+<img src="https://raw.githubusercontent.com/hugocarvalhopc/hugocarvalhopc/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 **AI Leadership Focus Areas**
+
+```mermaid
+mindmap
+  root((AI Leadership))
+    LLM Integration
+      OpenAI GPT Models
+      Anthropic Claude
+      Meta Llama
+    Cloud AI Platforms
+      AWS Bedrock
+      Google Gemini
+      Azure OpenAI
+    MLOps & Deployment
+      Model Monitoring
+      A/B Testing
+      Scalable Infrastructure
+    Team Leadership
+      AI Strategy
+      Technical Mentoring
+      Innovation Management
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 💫 **Daily AI Inspiration**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 **"The future belongs to those who build intelligent systems today!"** 🤖
+
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500" height="200" />
+
+---
+
+**Thanks for visiting my AI-focused profile! 🙏**
+
+<img src="https://komarev.com/ghpvc/?username=hugocarvalhopc&label=Profile%20views&color=0e75b6&style=flat" alt="hugocarvalhopc" />
+
+</div>
