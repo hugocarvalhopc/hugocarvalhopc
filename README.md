@@ -2,7 +2,7 @@
 
 # 🤖 Hugo Carvalho | AI Leader & Machine Learning Engineer 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Hugo+Carvalho!;AI+Leader+%26+ML+Engineer;Artificial+Intelligence+Specialist;LLM+%26+GenAI+Expert+%F0%9F%A4%96;From+Brazil+%F0%9F%87%B7%F0%9F%87%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Hugo+Carvalho!;AI+Leader+%26+ML+Engineer;Artificial+Intelligence+Specialist;LLM+%26+GenAI+Expert+%F0%9F%A4%96;From+Brazil+%F0%9F%87%B7%F0%9F%87%B7;Believe+it%21+%F0%9F%A6%8A" alt="Typing SVG" />
 
 </div>
 
@@ -28,11 +28,12 @@
 name: "Hugo Carvalho"
 role: "AI Leader & Machine Learning Engineer"
 location: "Maceió, Alagoas - Brazil 🇧🇷"
-education: "Computer Science 🎓"
+education: "Computer Science & AI at FIAP 🎓"
 specialization: "Artificial Intelligence & Large Language Models"
-philosophy: "Failure doesn't give you a reason to give up as long as you believe ✨"
+philosophy: "I never go back on my word! That's my ninja way! 🦊"
 mission: "Leading AI transformation and building intelligent systems 🚀"
-status: "Always learning and pushing AI boundaries 📈"
+status: "Always training harder, like a true ninja 📈"
+motto: "Believe it! 🦊"
 ```
 
 </div>
@@ -91,8 +92,8 @@ status: "Always learning and pushing AI boundaries 📈"
 
 ## 📊 **GitHub Analytics**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugocarvalhopc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugocarvalhopc&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugocarvalhopc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugocarvalhopc&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
 
@@ -100,7 +101,7 @@ status: "Always learning and pushing AI boundaries 📈"
 
 ## 🔥 **Contribution Streak**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hugocarvalhopc&theme=tokyonight" alt="hugocarvalhopc" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hugocarvalhopc&theme=radical" alt="hugocarvalhopc" />
 
 </div>
 
@@ -110,7 +111,7 @@ status: "Always learning and pushing AI boundaries 📈"
 
 ## 🏆 **GitHub Achievements**
 
-<img src="https://github-profile-trophy.vercel.app/?username=hugocarvalhopc&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=hugocarvalhopc&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 
 </div>
 
@@ -120,7 +121,7 @@ status: "Always learning and pushing AI boundaries 📈"
 
 ## 📈 **GitHub Activity Graph**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hugocarvalhopc&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hugocarvalhopc&bg_color=0d1117&color=ff6b35&line=ff6b35&point=ff9500&area=true&hide_border=true" />
 
 </div>
 
@@ -167,9 +168,17 @@ mindmap
 
 <div align="center">
 
-## 💫 **Daily AI Inspiration**
+## 🦊 **Ninja Way Inspiration**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+> *"Hard work is necessary. There are no shortcuts to any place worth going."*
+
+> *"If you don't like the hand that fate's dealt you, fight for a new one!"*
+
+> *"When people are protecting something truly special to them, they truly can become as strong as they can be."*
+
+> *"A smile is the best way to get away with trouble even if it's a fake one."*
+
+<img src="https://media.giphy.com/media/VeOAG5fkjZMuQ/giphy.gif" width="400" height="200" />
 
 </div>
 
@@ -177,14 +186,14 @@ mindmap
 
 <div align="center">
 
-### 🚀 **"The future belongs to those who build intelligent systems today!"** 🤖
+### 🚀 **"The AI future belongs to those who believe in their dreams!"** 🦊🤖
 
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500" height="200" />
 
 ---
 
-**Thanks for visiting my AI-focused profile! 🙏**
+**Thanks for visiting my AI-focused profile! Believe it! 🦊🙏**
 
-<img src="https://komarev.com/ghpvc/?username=hugocarvalhopc&label=Profile%20views&color=0e75b6&style=flat" alt="hugocarvalhopc" />
+<img src="https://komarev.com/ghpvc/?username=hugocarvalhopc&label=Profile%20views&color=ff6b35&style=flat" alt="hugocarvalhopc" />
 
 </div>
